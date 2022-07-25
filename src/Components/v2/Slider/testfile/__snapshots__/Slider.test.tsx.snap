@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Slider /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dkPtRN brQDgy"
+    data-testid="slider-test"
+    id="Slider"
+  >
+    <div
+      class="sc-hKwDye iivCqM"
+    />
+    <label
+      for="slider-input"
+    >
+      <input
+        class="sc-eCImPb qzrAe"
+        max="3000"
+        min="0"
+        step="500"
+        type="range"
+        value="200"
+      />
+    </label>
+    <div
+      class="sc-jRQBWg fBseAg"
+    >
+      <span
+        class="sc-bdvvtL fOQrUR"
+        data-testid="pricing-test"
+      >
+        200
+        <span
+          class="sc-gsDKAQ logYvF"
+          color="var(--warm-grey-50)"
+        />
+      </span>
+    </div>
+    <label
+      for="slider-input"
+    >
+      <input
+        class="sc-eCImPb qzrAe"
+        max="3000"
+        min="0"
+        step="500"
+        type="range"
+        value="700"
+      />
+    </label>
+    <div
+      class="sc-jRQBWg gBhjUx"
+    >
+      <span
+        class="sc-bdvvtL fOQrUR"
+        data-testid="pricing-test"
+      >
+        700
+        <span
+          class="sc-gsDKAQ logYvF"
+          color="var(--warm-grey-50)"
+        />
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

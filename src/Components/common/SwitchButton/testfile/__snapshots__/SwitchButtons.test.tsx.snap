@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Switchbutton /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL gzLLZV"
+    data-testid="switchButton"
+  >
+    <span
+      class="sc-hKwDye jtIkzO"
+      data-testid="switch-leftText"
+    >
+      VIEW FRAMES
+    </span>
+    <div
+      class="sc-gsDKAQ HmPLt"
+    >
+      <input
+        class="sc-dkPtRN eVNsQd"
+        data-testid="switch-input"
+        id="button-id"
+        name="switch button"
+        type="checkbox"
+      />
+      <label
+        class="sc-jRQBWg eojDAa"
+        data-testid="switch-label"
+      />
+    </div>
+    <span
+      class="sc-eCImPb dxlSiH"
+      data-testid="switch-rightText"
+    >
+      VIEW 3D
+    </span>
+  </div>
+</DocumentFragment>
+`;

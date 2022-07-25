@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CheckBox /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL dYfRsX"
+  >
+    <input
+      class="sc-gsDKAQ fJRCyr"
+      data-testid="checkbox-test"
+      type="checkbox"
+    />
+    <span
+      class="sc-dkPtRN kwqbju"
+    >
+      black
+    </span>
+  </div>
+</DocumentFragment>
+`;

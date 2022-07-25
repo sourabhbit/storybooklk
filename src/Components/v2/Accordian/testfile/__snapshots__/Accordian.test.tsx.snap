@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Accordian /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL cKDkGq"
+    data-testid="accordian-container"
+    id="accordian-id"
+  >
+    <div
+      class="sc-gsDKAQ brBwKm"
+    >
+      <span
+        class="sc-dkPtRN fobWJP"
+      >
+        Included
+      </span>
+      <span
+        class="sc-hKwDye feUFAa"
+      >
+        <img
+          alt="key"
+        />
+      </span>
+    </div>
+    <span
+      class="sc-eCImPb cFVUxq"
+    />
+  </div>
+</DocumentFragment>
+`;

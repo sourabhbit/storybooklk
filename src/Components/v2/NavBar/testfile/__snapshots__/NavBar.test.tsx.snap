@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Navbar /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL efRztj"
+    data-testid="navbar-wrapper"
+  >
+    <div
+      class="sc-gsDKAQ cmHcgF"
+      data-testid="nav-button"
+      id="id"
+    >
+      <span
+        class="sc-dkPtRN eNtPVD"
+        data-testid="nav-text"
+      >
+        Your Picks
+      </span>
+    </div>
+    <div
+      class="sc-gsDKAQ kjYOaa"
+      data-testid="nav-button"
+      id="id"
+    >
+      <span
+        class="sc-dkPtRN fbKlCn"
+        data-testid="nav-text"
+      >
+        Discover
+      </span>
+    </div>
+    <div
+      class="sc-gsDKAQ kjYOaa"
+      data-testid="nav-button"
+      id="id"
+    >
+      <span
+        class="sc-dkPtRN fbKlCn"
+        data-testid="nav-text"
+      >
+        Categories
+      </span>
+    </div>
+    <div
+      class="sc-gsDKAQ kjYOaa"
+      data-testid="nav-button"
+      id="id"
+    >
+      <span
+        class="sc-dkPtRN fbKlCn"
+        data-testid="nav-text"
+      >
+        Gold
+      </span>
+    </div>
+    <div
+      class="sc-gsDKAQ kjYOaa"
+      data-testid="nav-button"
+      id="id"
+    >
+      <span
+        class="sc-dkPtRN fbKlCn"
+        data-testid="nav-text"
+      >
+        Collabs
+      </span>
+    </div>
+    <div
+      class="sc-gsDKAQ kjYOaa"
+      data-testid="nav-button"
+      id="id"
+    >
+      <span
+        class="sc-dkPtRN fbKlCn"
+        data-testid="nav-text"
+      >
+        Labs
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

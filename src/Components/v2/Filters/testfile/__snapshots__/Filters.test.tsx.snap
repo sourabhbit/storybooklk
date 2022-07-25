@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FiltersComp /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL fVXOHo"
+    data-testid="filter-wrapper"
+    id="active-id"
+  >
+    <span
+      class="sc-dkPtRN juyXTR"
+      data-testid="filter-text"
+    >
+      Active Filters
+    </span>
+    <span
+      class="sc-gsDKAQ eSbkki"
+      data-testid="filter-count"
+    >
+      10
+    </span>
+  </div>
+</DocumentFragment>
+`;

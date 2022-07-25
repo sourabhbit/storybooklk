@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Ratings /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL gDgBQA"
+    data-testid="ratings-test"
+  >
+    <div
+      class="sc-gsDKAQ kxoApa"
+    >
+      <img
+        alt="star"
+        src="/starFilled.svg"
+      />
+    </div>
+    <div
+      class="sc-gsDKAQ kxoApa"
+    >
+      <img
+        alt="star"
+        src="/starFilled.svg"
+      />
+    </div>
+    <div
+      class="sc-gsDKAQ kxoApa"
+    >
+      <img
+        alt="star"
+        src="/starFilled.svg"
+      />
+    </div>
+    <div
+      class="sc-gsDKAQ kxoApa"
+    >
+      <img
+        alt="star"
+        src="/starFilled.svg"
+      />
+    </div>
+    <div
+      class="sc-gsDKAQ kxoApa"
+    >
+      <img
+        alt="star"
+        src="/star.svg"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

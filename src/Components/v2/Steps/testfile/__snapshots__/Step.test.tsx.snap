@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Step /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="sc-bdvvtL bMHWKf"
+    data-testid="step-wrapper"
+    id="step"
+  >
+    <div
+      class="sc-gsDKAQ loNbFt"
+    >
+      <img
+        alt="back"
+      />
+    </div>
+    <span>
+      Step 1/2
+    </span>
+  </span>
+</DocumentFragment>
+`;

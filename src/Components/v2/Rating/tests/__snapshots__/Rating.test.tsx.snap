@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NumericalRating /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL cPrLic"
+    data-testid="rating-test"
+  >
+    <img
+      alt=""
+      class="sc-gsDKAQ jwEqgZ"
+    />
+    <div
+      class="sc-dkPtRN eJzovV"
+    >
+      4.5
+    </div>
+  </div>
+</DocumentFragment>
+`;

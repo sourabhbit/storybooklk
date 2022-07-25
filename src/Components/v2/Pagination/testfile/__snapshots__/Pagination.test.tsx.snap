@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pagination /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL bNncAS"
+    data-testid="pagination-wrapper"
+    id="pagination-id"
+  >
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye rOYsa"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+    <div
+      class="sc-hKwDye jrXdCv"
+      data-testid="pagination-line"
+    />
+  </div>
+</DocumentFragment>
+`;

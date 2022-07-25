@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Chips /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL kffJJs"
+    data-testid="Chip-wrapper"
+    id="active-id"
+  >
+    <span
+      class="sc-dkPtRN gRmiDn"
+    />
+    <span
+      class="sc-hKwDye gRuEna"
+      data-testid="Chip-text"
+    >
+      Active Chips
+    </span>
+    <span
+      class="sc-gsDKAQ eSbkki"
+      data-testid="Chip-count"
+    >
+      10
+    </span>
+  </div>
+</DocumentFragment>
+`;

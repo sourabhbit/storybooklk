@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NumberedStar /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="sc-bdvvtL cJIrfk"
+    data-testid="pricing-test"
+  >
+    999
+    <span
+      class="sc-gsDKAQ logYvF"
+      color="var(--warm-grey-50)"
+    />
+  </span>
+</DocumentFragment>
+`;

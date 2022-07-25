@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Swatch /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL cLTMZH"
+    data-testid="swatch-test"
+    id="swatch"
+  >
+    <div
+      class="sc-dkPtRN krUQxC"
+      color="#705C65"
+      data-testid="swatch-item"
+    />
+    <div
+      class="sc-dkPtRN kCFcDT"
+      color="#506E93"
+      data-testid="swatch-item"
+    />
+    <div
+      class="sc-dkPtRN bTZgJu"
+      color="#FFE091"
+      data-testid="swatch-item"
+    />
+    <div
+      class="sc-dkPtRN eFLBJH"
+      color="#EEEBEB"
+      data-testid="swatch-item"
+    />
+    <div
+      class="sc-dkPtRN loNMqA"
+      color="#C4C4C4"
+      data-testid="swatch-item"
+    />
+    <div
+      class="sc-dkPtRN lafMCh"
+      color="#4B5944"
+      data-testid="swatch-item"
+    />
+    <div
+      class="sc-dkPtRN hktMER"
+      color="#908942"
+      data-testid="swatch-item"
+    />
+  </div>
+</DocumentFragment>
+`;

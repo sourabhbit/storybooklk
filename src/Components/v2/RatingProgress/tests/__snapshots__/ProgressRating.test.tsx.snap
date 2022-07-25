@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProgressRatings /> Should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL"
+    data-testid="progress-test"
+  >
+    <div
+      class="sc-gsDKAQ dZaqmM"
+    >
+      <progress
+        max="5"
+        value="4.5"
+      >
+        4.5
+      </progress>
+    </div>
+  </div>
+</DocumentFragment>
+`;
